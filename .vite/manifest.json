@@ -1,12 +1,12 @@
 {
-  "_Diorama-D0-KWQHb.js": {
-    "file": "assets/Diorama-D0-KWQHb.js",
+  "_Diorama-DNQE21eY.js": {
+    "file": "assets/Diorama-DNQE21eY.js",
     "name": "Diorama",
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "index.html",
       "_three-core-B3hTc2rW.js",
-      "_react-three-BJl2Yikh.js",
+      "_react-three-BkB-NUZd.js",
       "src/world/Scene.tsx"
     ]
   },
@@ -14,8 +14,8 @@
     "file": "assets/dive-motion-CvDoa17S.js",
     "name": "dive-motion"
   },
-  "_react-three-BJl2Yikh.js": {
-    "file": "assets/react-three-BJl2Yikh.js",
+  "_react-three-BkB-NUZd.js": {
+    "file": "assets/react-three-BkB-NUZd.js",
     "name": "react-three",
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
@@ -41,19 +41,19 @@
       "_three-core-B3hTc2rW.js"
     ]
   },
-  "_world-effects-DxEfBBT5.js": {
-    "file": "assets/world-effects-DxEfBBT5.js",
+  "_world-effects-BvTn0YeO.js": {
+    "file": "assets/world-effects-BvTn0YeO.js",
     "name": "world-effects",
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "index.html",
       "_three-core-B3hTc2rW.js",
-      "_react-three-BJl2Yikh.js",
+      "_react-three-BkB-NUZd.js",
       "src/world/Scene.tsx"
     ]
   },
   "index.html": {
-    "file": "assets/index-C-agjQ4c.js",
+    "file": "assets/index-DgMrVjwm.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -67,11 +67,11 @@
       "src/components/MoveSaves.tsx"
     ],
     "css": [
-      "assets/index-7OliscFf.css"
+      "assets/index--xQRBGlF.css"
     ]
   },
   "src/components/Home.tsx": {
-    "file": "assets/Home-CDyVFn9D.js",
+    "file": "assets/Home-s8lFFODf.js",
     "name": "Home",
     "src": "src/components/Home.tsx",
     "isDynamicEntry": true,
@@ -81,7 +81,7 @@
     ]
   },
   "src/components/MoveSaves.tsx": {
-    "file": "assets/MoveSaves-Cz2kVpsg.js",
+    "file": "assets/MoveSaves-DtBbVhuy.js",
     "name": "MoveSaves",
     "src": "src/components/MoveSaves.tsx",
     "isDynamicEntry": true,
@@ -91,7 +91,7 @@
     ]
   },
   "src/world/DeviceCheck.tsx": {
-    "file": "assets/DeviceCheck-Ll77ajso.js",
+    "file": "assets/DeviceCheck-BeA2ea0g.js",
     "name": "DeviceCheck",
     "src": "src/world/DeviceCheck.tsx",
     "isDynamicEntry": true,
@@ -101,7 +101,7 @@
     ]
   },
   "src/world/Scene.tsx": {
-    "file": "assets/Scene-jAQdVCzH.js",
+    "file": "assets/Scene-CDZjuuSS.js",
     "name": "Scene",
     "src": "src/world/Scene.tsx",
     "isDynamicEntry": true,
@@ -109,9 +109,9 @@
       "_rolldown-runtime-hePW80VL.js",
       "index.html",
       "_three-core-B3hTc2rW.js",
-      "_react-three-BJl2Yikh.js",
+      "_react-three-BkB-NUZd.js",
       "_dive-motion-CvDoa17S.js",
-      "_world-effects-DxEfBBT5.js"
+      "_world-effects-BvTn0YeO.js"
     ],
     "dynamicImports": [
       "src/world/worlds/games/aquarium.tsx",
@@ -121,43 +121,43 @@
     ]
   },
   "src/world/worlds/games/aquarium.tsx": {
-    "file": "assets/aquarium-B50Y5jJu.js",
+    "file": "assets/aquarium-Bn_GQkv8.js",
     "name": "aquarium",
     "src": "src/world/worlds/games/aquarium.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_Diorama-D0-KWQHb.js"
+      "_Diorama-DNQE21eY.js"
     ]
   },
   "src/world/worlds/games/doodlebox.tsx": {
-    "file": "assets/doodlebox-CveaOAHr.js",
+    "file": "assets/doodlebox-pfUgSHh_.js",
     "name": "doodlebox",
     "src": "src/world/worlds/games/doodlebox.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_Diorama-D0-KWQHb.js"
+      "_Diorama-DNQE21eY.js"
     ]
   },
   "src/world/worlds/games/fuzzlet.tsx": {
-    "file": "assets/fuzzlet-aOYPTevA.js",
+    "file": "assets/fuzzlet-DV-XZpLn.js",
     "name": "fuzzlet",
     "src": "src/world/worlds/games/fuzzlet.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_Diorama-D0-KWQHb.js"
+      "_Diorama-DNQE21eY.js"
     ]
   },
   "src/world/worlds/games/nail-salon.tsx": {
-    "file": "assets/nail-salon-BIHSB5cM.js",
+    "file": "assets/nail-salon-ByzlY2oD.js",
     "name": "nail-salon",
     "src": "src/world/worlds/games/nail-salon.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_Diorama-D0-KWQHb.js"
+      "_Diorama-DNQE21eY.js"
     ]
   }
 }
