@@ -1,0 +1,1 @@
+import{_ as e}from"./index-C-agjQ4c.js";import{t}from"./Diorama-D0-KWQHb.js";var n=e(),r={particles:{count:18,color:`#ffdca8`,size:.028,rise:.035,spread:1.25,opacity:.5}};function i(e){return(0,n.jsx)(t,{...e,style:r})}export{i as default};
