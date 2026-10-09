@@ -1,12 +1,12 @@
 {
-  "_Diorama-CVUv4gdf.js": {
-    "file": "assets/Diorama-CVUv4gdf.js",
+  "_Diorama-Er3oUQqc.js": {
+    "file": "assets/Diorama-Er3oUQqc.js",
     "name": "Diorama",
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "index.html",
       "_three-core-B3hTc2rW.js",
-      "_react-three-BCc_QmsR.js",
+      "_react-three-Dq0hSaJy.js",
       "src/world/Scene.tsx"
     ]
   },
@@ -14,8 +14,8 @@
     "file": "assets/dive-motion-CvDoa17S.js",
     "name": "dive-motion"
   },
-  "_react-three-BCc_QmsR.js": {
-    "file": "assets/react-three-BCc_QmsR.js",
+  "_react-three-Dq0hSaJy.js": {
+    "file": "assets/react-three-Dq0hSaJy.js",
     "name": "react-three",
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
@@ -41,19 +41,19 @@
       "_three-core-B3hTc2rW.js"
     ]
   },
-  "_world-effects-Xrad1d72.js": {
-    "file": "assets/world-effects-Xrad1d72.js",
+  "_world-effects-4LFCN36K.js": {
+    "file": "assets/world-effects-4LFCN36K.js",
     "name": "world-effects",
     "imports": [
       "_rolldown-runtime-hePW80VL.js",
       "index.html",
       "_three-core-B3hTc2rW.js",
-      "_react-three-BCc_QmsR.js",
+      "_react-three-Dq0hSaJy.js",
       "src/world/Scene.tsx"
     ]
   },
   "index.html": {
-    "file": "assets/index-D1PLWVFA.js",
+    "file": "assets/index-C1ASBeSz.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -71,7 +71,7 @@
     ]
   },
   "src/components/Home.tsx": {
-    "file": "assets/Home-BV1P4RVG.js",
+    "file": "assets/Home-D3qDzlNF.js",
     "name": "Home",
     "src": "src/components/Home.tsx",
     "isDynamicEntry": true,
@@ -81,7 +81,7 @@
     ]
   },
   "src/components/MoveSaves.tsx": {
-    "file": "assets/MoveSaves-De-VhRdy.js",
+    "file": "assets/MoveSaves-CmKVgYAp.js",
     "name": "MoveSaves",
     "src": "src/components/MoveSaves.tsx",
     "isDynamicEntry": true,
@@ -91,7 +91,7 @@
     ]
   },
   "src/world/DeviceCheck.tsx": {
-    "file": "assets/DeviceCheck-BcJTg7pc.js",
+    "file": "assets/DeviceCheck-D0XSirEN.js",
     "name": "DeviceCheck",
     "src": "src/world/DeviceCheck.tsx",
     "isDynamicEntry": true,
@@ -101,7 +101,7 @@
     ]
   },
   "src/world/Scene.tsx": {
-    "file": "assets/Scene-DWR1kEfM.js",
+    "file": "assets/Scene-Dgl11LGn.js",
     "name": "Scene",
     "src": "src/world/Scene.tsx",
     "isDynamicEntry": true,
@@ -109,9 +109,9 @@
       "_rolldown-runtime-hePW80VL.js",
       "index.html",
       "_three-core-B3hTc2rW.js",
-      "_react-three-BCc_QmsR.js",
+      "_react-three-Dq0hSaJy.js",
       "_dive-motion-CvDoa17S.js",
-      "_world-effects-Xrad1d72.js"
+      "_world-effects-4LFCN36K.js"
     ],
     "dynamicImports": [
       "src/world/worlds/games/aquarium.tsx",
@@ -121,43 +121,43 @@
     ]
   },
   "src/world/worlds/games/aquarium.tsx": {
-    "file": "assets/aquarium-IUZO_E7c.js",
+    "file": "assets/aquarium-ZiUOxbRa.js",
     "name": "aquarium",
     "src": "src/world/worlds/games/aquarium.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_Diorama-CVUv4gdf.js"
+      "_Diorama-Er3oUQqc.js"
     ]
   },
   "src/world/worlds/games/doodlebox.tsx": {
-    "file": "assets/doodlebox-Ae_ff4cM.js",
+    "file": "assets/doodlebox-B2IDUFOc.js",
     "name": "doodlebox",
     "src": "src/world/worlds/games/doodlebox.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_Diorama-CVUv4gdf.js"
+      "_Diorama-Er3oUQqc.js"
     ]
   },
   "src/world/worlds/games/fuzzlet.tsx": {
-    "file": "assets/fuzzlet-DsLyGx-X.js",
+    "file": "assets/fuzzlet-ClvlPu0G.js",
     "name": "fuzzlet",
     "src": "src/world/worlds/games/fuzzlet.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_Diorama-CVUv4gdf.js"
+      "_Diorama-Er3oUQqc.js"
     ]
   },
   "src/world/worlds/games/nail-salon.tsx": {
-    "file": "assets/nail-salon-kuqCY9K-.js",
+    "file": "assets/nail-salon-CFIPdh5I.js",
     "name": "nail-salon",
     "src": "src/world/worlds/games/nail-salon.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_Diorama-CVUv4gdf.js"
+      "_Diorama-Er3oUQqc.js"
     ]
   }
 }
