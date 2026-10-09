@@ -1,0 +1,163 @@
+{
+  "_Diorama-CVUv4gdf.js": {
+    "file": "assets/Diorama-CVUv4gdf.js",
+    "name": "Diorama",
+    "imports": [
+      "_rolldown-runtime-hePW80VL.js",
+      "index.html",
+      "_three-core-B3hTc2rW.js",
+      "_react-three-BCc_QmsR.js",
+      "src/world/Scene.tsx"
+    ]
+  },
+  "_dive-motion-CvDoa17S.js": {
+    "file": "assets/dive-motion-CvDoa17S.js",
+    "name": "dive-motion"
+  },
+  "_react-three-BCc_QmsR.js": {
+    "file": "assets/react-three-BCc_QmsR.js",
+    "name": "react-three",
+    "imports": [
+      "_rolldown-runtime-hePW80VL.js",
+      "index.html",
+      "_three-core-B3hTc2rW.js",
+      "_three-renderer-UbFHIzVO.js",
+      "src/world/Scene.tsx"
+    ]
+  },
+  "_rolldown-runtime-hePW80VL.js": {
+    "file": "assets/rolldown-runtime-hePW80VL.js",
+    "name": "rolldown-runtime"
+  },
+  "_three-core-B3hTc2rW.js": {
+    "file": "assets/three-core-B3hTc2rW.js",
+    "name": "three-core"
+  },
+  "_three-renderer-UbFHIzVO.js": {
+    "file": "assets/three-renderer-UbFHIzVO.js",
+    "name": "three-renderer",
+    "imports": [
+      "_rolldown-runtime-hePW80VL.js",
+      "_three-core-B3hTc2rW.js"
+    ]
+  },
+  "_world-effects-Xrad1d72.js": {
+    "file": "assets/world-effects-Xrad1d72.js",
+    "name": "world-effects",
+    "imports": [
+      "_rolldown-runtime-hePW80VL.js",
+      "index.html",
+      "_three-core-B3hTc2rW.js",
+      "_react-three-BCc_QmsR.js",
+      "src/world/Scene.tsx"
+    ]
+  },
+  "index.html": {
+    "file": "assets/index-D1PLWVFA.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-hePW80VL.js"
+    ],
+    "dynamicImports": [
+      "src/world/Scene.tsx",
+      "src/world/DeviceCheck.tsx",
+      "src/components/Home.tsx",
+      "src/components/MoveSaves.tsx"
+    ],
+    "css": [
+      "assets/index-DP6mDwJ7.css"
+    ]
+  },
+  "src/components/Home.tsx": {
+    "file": "assets/Home-BV1P4RVG.js",
+    "name": "Home",
+    "src": "src/components/Home.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-hePW80VL.js",
+      "index.html"
+    ]
+  },
+  "src/components/MoveSaves.tsx": {
+    "file": "assets/MoveSaves-De-VhRdy.js",
+    "name": "MoveSaves",
+    "src": "src/components/MoveSaves.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-hePW80VL.js",
+      "index.html"
+    ]
+  },
+  "src/world/DeviceCheck.tsx": {
+    "file": "assets/DeviceCheck-BcJTg7pc.js",
+    "name": "DeviceCheck",
+    "src": "src/world/DeviceCheck.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-hePW80VL.js",
+      "index.html"
+    ]
+  },
+  "src/world/Scene.tsx": {
+    "file": "assets/Scene-DWR1kEfM.js",
+    "name": "Scene",
+    "src": "src/world/Scene.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-hePW80VL.js",
+      "index.html",
+      "_three-core-B3hTc2rW.js",
+      "_react-three-BCc_QmsR.js",
+      "_dive-motion-CvDoa17S.js",
+      "_world-effects-Xrad1d72.js"
+    ],
+    "dynamicImports": [
+      "src/world/worlds/games/aquarium.tsx",
+      "src/world/worlds/games/doodlebox.tsx",
+      "src/world/worlds/games/fuzzlet.tsx",
+      "src/world/worlds/games/nail-salon.tsx"
+    ]
+  },
+  "src/world/worlds/games/aquarium.tsx": {
+    "file": "assets/aquarium-IUZO_E7c.js",
+    "name": "aquarium",
+    "src": "src/world/worlds/games/aquarium.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_Diorama-CVUv4gdf.js"
+    ]
+  },
+  "src/world/worlds/games/doodlebox.tsx": {
+    "file": "assets/doodlebox-Ae_ff4cM.js",
+    "name": "doodlebox",
+    "src": "src/world/worlds/games/doodlebox.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_Diorama-CVUv4gdf.js"
+    ]
+  },
+  "src/world/worlds/games/fuzzlet.tsx": {
+    "file": "assets/fuzzlet-DsLyGx-X.js",
+    "name": "fuzzlet",
+    "src": "src/world/worlds/games/fuzzlet.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_Diorama-CVUv4gdf.js"
+    ]
+  },
+  "src/world/worlds/games/nail-salon.tsx": {
+    "file": "assets/nail-salon-kuqCY9K-.js",
+    "name": "nail-salon",
+    "src": "src/world/worlds/games/nail-salon.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_Diorama-CVUv4gdf.js"
+    ]
+  }
+}

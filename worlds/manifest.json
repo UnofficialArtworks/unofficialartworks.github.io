@@ -1,0 +1,47 @@
+[
+  {
+    "id": "aquarium",
+    "bytes": 1058516,
+    "gzipBytes": 977655,
+    "meshes": 8,
+    "textures": 3,
+    "clips": []
+  },
+  {
+    "id": "fuzzlet",
+    "bytes": 1034496,
+    "gzipBytes": 899563,
+    "meshes": 8,
+    "textures": 3,
+    "clips": []
+  },
+  {
+    "id": "doodlebox",
+    "bytes": 989312,
+    "gzipBytes": 847394,
+    "meshes": 6,
+    "textures": 3,
+    "clips": []
+  },
+  {
+    "id": "nail-salon",
+    "bytes": 724880,
+    "gzipBytes": 648068,
+    "meshes": 8,
+    "textures": 3,
+    "clips": []
+  },
+  {
+    "id": "guide",
+    "bytes": 188924,
+    "gzipBytes": 109110,
+    "meshes": 1,
+    "textures": 0,
+    "clips": [
+      "Hop",
+      "Idle",
+      "LookAround",
+      "Wave"
+    ]
+  }
+]
